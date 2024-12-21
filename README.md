@@ -20,6 +20,6 @@ I'm a **Full Stack Web Developer** passionate about building interactive, scalab
 ## Let's Connect!
 
 - 📫 Email: midnightmihir@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/midnightmihir/]
+- 💼 LinkedIn: https://www.linkedin.com/in/midnightmihir
 
 Feel free to check out my repositories and contribute to any of my projects. I'm always open to learning new things and collaborating with fellow developers! 😄
